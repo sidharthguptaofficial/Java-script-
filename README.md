@@ -121,8 +121,7 @@ getNFTCount();
 
 ## License
 
-This project is licensed under the MIT License.
-
+This contract is licensed under the MIT License. SPDX-License-Identifier: MIT.
 ---
 
 Feel free to adjust any section to better suit your project's needs.
